@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/meet-the-team/layout,_N_T_/meet-the-team/page,_N_T_/meet-the-team"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/meet-the-team/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/54433fa2d134bfab6c9dd7bce590f0cf7e2302b7d064bbc67a0e3f7f0ee751d9/$/meet-the-team",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/meet-the-team/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "/[service]/page": "app/[service]/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about-us/page": "app/about-us/page.js",
+  "/contact-us/page": "app/contact-us/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/insurance-payment/page": "app/insurance-payment/page.js",
+  "/meet-the-team/page": "app/meet-the-team/page.js",
+  "/new-patients/page": "app/new-patients/page.js",
+  "/opt-out-preferences/page": "app/opt-out-preferences/page.js",
+  "/our-office/page": "app/our-office/page.js",
+  "/page": "app/page.js",
+  "/patient-forms/page": "app/patient-forms/page.js",
+  "/privacy-statement-us/page": "app/privacy-statement-us/page.js",
+  "/rate-our-office/page": "app/rate-our-office/page.js",
+  "/request-an-appointment/page": "app/request-an-appointment/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/services/page": "app/services/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/testimonials/page": "app/testimonials/page.js"
+}

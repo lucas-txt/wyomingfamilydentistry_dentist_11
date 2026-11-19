@@ -1,0 +1,174 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "app",
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "onMatchHeaders": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/[service]",
+      "regex": "^/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPservice": "nxtPservice"
+      },
+      "namedRegex": "^/(?<nxtPservice>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/about-us",
+      "regex": "^/about\\-us(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about\\-us(?:/)?$"
+    },
+    {
+      "page": "/contact-us",
+      "regex": "^/contact\\-us(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact\\-us(?:/)?$"
+    },
+    {
+      "page": "/faq",
+      "regex": "^/faq(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/faq(?:/)?$"
+    },
+    {
+      "page": "/icon.png",
+      "regex": "^/icon\\.png(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/icon\\.png(?:/)?$"
+    },
+    {
+      "page": "/insurance-payment",
+      "regex": "^/insurance\\-payment(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/insurance\\-payment(?:/)?$"
+    },
+    {
+      "page": "/meet-the-team",
+      "regex": "^/meet\\-the\\-team(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/meet\\-the\\-team(?:/)?$"
+    },
+    {
+      "page": "/new-patients",
+      "regex": "^/new\\-patients(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/new\\-patients(?:/)?$"
+    },
+    {
+      "page": "/opt-out-preferences",
+      "regex": "^/opt\\-out\\-preferences(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/opt\\-out\\-preferences(?:/)?$"
+    },
+    {
+      "page": "/our-office",
+      "regex": "^/our\\-office(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/our\\-office(?:/)?$"
+    },
+    {
+      "page": "/patient-forms",
+      "regex": "^/patient\\-forms(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/patient\\-forms(?:/)?$"
+    },
+    {
+      "page": "/privacy-statement-us",
+      "regex": "^/privacy\\-statement\\-us(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/privacy\\-statement\\-us(?:/)?$"
+    },
+    {
+      "page": "/rate-our-office",
+      "regex": "^/rate\\-our\\-office(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/rate\\-our\\-office(?:/)?$"
+    },
+    {
+      "page": "/request-an-appointment",
+      "regex": "^/request\\-an\\-appointment(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/request\\-an\\-appointment(?:/)?$"
+    },
+    {
+      "page": "/robots.txt",
+      "regex": "^/robots\\.txt(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/robots\\.txt(?:/)?$"
+    },
+    {
+      "page": "/services",
+      "regex": "^/services(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/services(?:/)?$"
+    },
+    {
+      "page": "/sitemap.xml",
+      "regex": "^/sitemap\\.xml(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sitemap\\.xml(?:/)?$"
+    },
+    {
+      "page": "/testimonials",
+      "regex": "^/testimonials(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/testimonials(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

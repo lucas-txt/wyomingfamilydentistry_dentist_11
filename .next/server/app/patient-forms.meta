@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/patient-forms/layout,_N_T_/patient-forms/page,_N_T_/patient-forms"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/patient-forms/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/74fd1f7df33397191e17bf3631056858e32360aa4c0f1f81d343e202c1c4dfd2/$/patient-forms",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/patient-forms/page"
+    },
+    "isFallback": false
+  }
+}

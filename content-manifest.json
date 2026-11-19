@@ -1,0 +1,540 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Wyoming Family Dentistry – Begin Your Journey To a Perfect Smile",
+      "headings": [
+        "Welcome To Wyoming Family Dentistry",
+        "High-Quality Oral Healthcare Through a Patient-Centered Approach",
+        "WHY CHOOSE US?",
+        "WHAT PEOPLE ARE SAYING"
+      ],
+      "sections": [
+        "Hero",
+        "Services",
+        "Testimonials",
+        "Welcome",
+        "Contact"
+      ]
+    },
+    {
+      "path": "/about-us",
+      "title": "About Us – Wyoming Family Dentistry",
+      "headings": [
+        "About Us",
+        "About Wyoming Family Dentistry",
+        "Emily Boehm DDS",
+        "Susan Pass, Business Manager",
+        "Heather Reed, Registered Dental Hygienist"
+      ],
+      "sections": [
+        "Intro",
+        "Team"
+      ]
+    },
+    {
+      "path": "/our-office",
+      "title": "Our Office – Wyoming Family Dentistry",
+      "headings": [
+        "Our Office",
+        "Insurance and Payment"
+      ],
+      "sections": [
+        "Office",
+        "Insurance and Payment"
+      ]
+    },
+    {
+      "path": "/services",
+      "title": "Services – Wyoming Family Dentistry",
+      "headings": [
+        "Services",
+        "Our Services"
+      ],
+      "sections": [
+        "Service list"
+      ]
+    },
+    {
+      "path": "/preventative-dentistry",
+      "title": "Preventative Dentistry – Wyoming Family Dentistry",
+      "headings": [
+        "Preventative Dentistry",
+        "What Is Preventative Dentistry?",
+        "What Are the Benefits of Preventive Dental Care?",
+        "What Preventive Dental Services Are There?"
+      ],
+      "sections": [
+        "Intro",
+        "Benefits",
+        "Services",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/restorative-dentistry",
+      "title": "Restorative Dentistry – Wyoming Family Dentistry",
+      "headings": [
+        "Restorative Dentistry",
+        "Why Choose Restorative Dentistry?",
+        "What Types of Restoration Solutions Are Available?"
+      ],
+      "sections": [
+        "Intro",
+        "Benefits",
+        "Options",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/cosmetic-dentistry",
+      "title": "Cosmetic Dentistry – Wyoming Family Dentistry",
+      "headings": [
+        "Cosmetic Dentistry",
+        "What Can Cosmetic Dentistry Address?",
+        "Personalized Treatment Options",
+        "What to Expect During Your Visit?"
+      ],
+      "sections": [
+        "Intro",
+        "Treatments",
+        "Visit",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/root-canal-therapy",
+      "title": "Root Canal Therapy – Wyoming Family Dentistry",
+      "headings": [
+        "Root Canal Therapy",
+        "What Is a Root Canal?",
+        "When Might You Need Root Canal Therapy?",
+        "What Happens During a Root Canal?",
+        "Do Root Canals Hurt?"
+      ],
+      "sections": [
+        "Intro",
+        "Process",
+        "Benefits",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/dental-implants",
+      "title": "Dental Implants – Wyoming Family Dentistry",
+      "headings": [
+        "Dental Implants",
+        "What Are Dental Implants?",
+        "What Advantages Do Implants Offer?",
+        "What Types of Dental Implants Are There?"
+      ],
+      "sections": [
+        "Intro",
+        "Advantages",
+        "Types",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/dental-crowns",
+      "title": "Dental Crowns – Wyoming Family Dentistry",
+      "headings": [
+        "Dental Crowns",
+        "How Do Dental Crowns Help Your Teeth?",
+        "What Types of Crowns Are There?"
+      ],
+      "sections": [
+        "Intro",
+        "Uses",
+        "Types",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/tmj-therapy",
+      "title": "TMJ Therapy – Wyoming Family Dentistry",
+      "headings": [
+        "TMJ Therapy",
+        "How Do Dentists Treat TMJ?",
+        "How Do Dentists Alleviate Pain?"
+      ],
+      "sections": [
+        "Intro",
+        "Treatment",
+        "Pain relief"
+      ]
+    },
+    {
+      "path": "/extractions",
+      "title": "Extractions – Wyoming Family Dentistry",
+      "headings": [
+        "Extractions",
+        "When an Extraction Makes Sense",
+        "What the Process Feels Like",
+        "Recovering From a Tooth Extraction"
+      ],
+      "sections": [
+        "Intro",
+        "Process",
+        "Recovery"
+      ]
+    },
+    {
+      "path": "/botox",
+      "title": "Botox – Wyoming Family Dentistry",
+      "headings": [
+        "Botox",
+        "What Is Botox?",
+        "When You Might Consider Botox at the Dentist’s Office",
+        "Is Botox Safe?"
+      ],
+      "sections": [
+        "Intro",
+        "Dental uses",
+        "Safety",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/patient-forms",
+      "title": "Patient Forms – Wyoming Family Dentistry",
+      "headings": [
+        "Patient Forms",
+        "New Patient Information",
+        "Medical History Exam",
+        "HIPAA Explanation",
+        "Financial Policy"
+      ],
+      "sections": [
+        "Intro",
+        "Forms"
+      ]
+    },
+    {
+      "path": "/testimonials",
+      "title": "Testimonials – Wyoming Family Dentistry",
+      "headings": [
+        "Testimonials",
+        "Featured Google Review"
+      ],
+      "sections": [
+        "Reviews",
+        "Google CTA"
+      ]
+    },
+    {
+      "path": "/request-an-appointment",
+      "title": "Request An Appointment – Wyoming Family Dentistry",
+      "headings": [
+        "Request An Appointment",
+        "Location",
+        "Hours"
+      ],
+      "sections": [
+        "Form",
+        "Location",
+        "Hours"
+      ]
+    },
+    {
+      "path": "/contact-us",
+      "title": "Contact Us – Wyoming Family Dentistry",
+      "headings": [
+        "Contact Us",
+        "Location",
+        "Hours"
+      ],
+      "sections": [
+        "Form",
+        "Location",
+        "Hours"
+      ]
+    },
+    {
+      "path": "/rate-our-office",
+      "title": "Rate Our Office – Wyoming Family Dentistry",
+      "headings": [
+        "Rate Our Office",
+        "We want to hear from you!"
+      ],
+      "sections": [
+        "Form"
+      ]
+    },
+    {
+      "path": "/privacy-statement-us",
+      "title": "Privacy Statement (US) – Wyoming Family Dentistry",
+      "headings": [
+        "Privacy Statement (US)",
+        "1. Purpose and categories of data",
+        "2. Disclosure practices",
+        "10. Contact details"
+      ],
+      "sections": [
+        "Legal prose",
+        "Contact"
+      ]
+    },
+    {
+      "path": "/opt-out-preferences",
+      "title": "Opt-out preferences – Wyoming Family Dentistry",
+      "headings": [
+        "Opt-out preferences",
+        "1. Introduction",
+        "2. Cookies",
+        "7. Contact details"
+      ],
+      "sections": [
+        "Legal prose",
+        "Contact"
+      ]
+    },
+    {
+      "path": "/faq",
+      "title": "Frequently Asked Questions – Wyoming Family Dentistry",
+      "headings": [
+        "Frequently Asked Questions",
+        "Preventative care",
+        "Restorative care",
+        "Appointments"
+      ],
+      "sections": [
+        "FAQ accordion"
+      ]
+    },
+    {
+      "path": "/new-patients",
+      "title": "New Patients – Wyoming Family Dentistry",
+      "headings": [
+        "New Patients",
+        "What to expect",
+        "Patient forms",
+        "Request an appointment"
+      ],
+      "sections": [
+        "Welcome",
+        "Steps",
+        "Forms",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/meet-the-team",
+      "title": "Meet the Team – Wyoming Family Dentistry",
+      "headings": [
+        "Meet the Team",
+        "Emily Boehm DDS",
+        "Susan Pass, Business Manager",
+        "Heather Reed, Registered Dental Hygienist"
+      ],
+      "sections": [
+        "Team"
+      ]
+    },
+    {
+      "path": "/insurance-payment",
+      "title": "Insurance & Payment – Wyoming Family Dentistry",
+      "headings": [
+        "Insurance & Payment",
+        "We Accept the Following"
+      ],
+      "sections": [
+        "Insurance",
+        "Payment methods"
+      ]
+    }
+  ],
+  "facts": {
+    "business_name": [
+      "Wyoming Family Dentistry"
+    ],
+    "tagline": [
+      "High-Quality Oral Healthcare Through a Patient-Centered Approach"
+    ],
+    "phone": [
+      "1.513.821.0659",
+      "1-513-821-0659"
+    ],
+    "email": [
+      "wyomingfamilydentistry@gmail.com"
+    ],
+    "address": [
+      "411 Wyoming Ave, Wyoming, OH 45215"
+    ],
+    "hours": [
+      "Monday: 8:00AM - 5:00PM",
+      "Tuesday: 7:00AM - 3:00PM",
+      "Wednesday: 8:00AM - 5:00PM",
+      "Thursday: 7:00AM - 3:00PM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "team": [
+      "Emily Boehm DDS",
+      "Susan Pass",
+      "Heather Reed",
+      "Registered Dental Hygienist",
+      "Business Manager"
+    ],
+    "testimonial_authors": [
+      "Brian B.",
+      "Briana P.",
+      "Craymon M.",
+      "Angie M.",
+      "Katie H."
+    ],
+    "featured_review_names": [
+      "Emily Price Boehm",
+      "Gabby",
+      "Heidi"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Visa",
+      "Mastercard",
+      "Amex",
+      "Discover",
+      "Check",
+      "Care Credit"
+    ],
+    "patient_forms": [
+      "New Patient Information",
+      "Medical History Exam",
+      "HIPAA Explanation",
+      "Financial Policy"
+    ],
+    "social": [
+      "Facebook"
+    ]
+  },
+  "navigation": {
+    "header": [
+      "/",
+      "/about-us",
+      "/our-office",
+      "/services",
+      "/patient-forms",
+      "/testimonials",
+      "/contact-us"
+    ],
+    "footer": [
+      "/",
+      "/about-us",
+      "/meet-the-team",
+      "/our-office",
+      "/services",
+      "/patient-forms",
+      "/new-patients",
+      "/testimonials",
+      "/faq",
+      "/request-an-appointment",
+      "/contact-us",
+      "/rate-our-office",
+      "/privacy-statement-us",
+      "/opt-out-preferences"
+    ]
+  },
+  "assets": [
+    {
+      "src": "/assets/forms/financial-policy.pdf",
+      "type": "pdf",
+      "bytes": 54107
+    },
+    {
+      "src": "/assets/forms/hipaa-explanation.pdf",
+      "type": "pdf",
+      "bytes": 49329
+    },
+    {
+      "src": "/assets/forms/medical-history-exam.pdf",
+      "type": "pdf",
+      "bytes": 710783
+    },
+    {
+      "src": "/assets/forms/new-patient-information.pdf",
+      "type": "pdf",
+      "bytes": 82786
+    },
+    {
+      "src": "/assets/images/google-icon.webp",
+      "type": "image",
+      "bytes": 3484
+    },
+    {
+      "src": "/assets/images/hero-family.webp",
+      "type": "image",
+      "bytes": 90676
+    },
+    {
+      "src": "/assets/images/logo-mark.webp",
+      "type": "image",
+      "bytes": 21232
+    },
+    {
+      "src": "/assets/images/logo.webp",
+      "type": "image",
+      "bytes": 12488
+    },
+    {
+      "src": "/assets/images/service-botox.webp",
+      "type": "image",
+      "bytes": 27066
+    },
+    {
+      "src": "/assets/images/service-cosmetic.webp",
+      "type": "image",
+      "bytes": 11940
+    },
+    {
+      "src": "/assets/images/service-crowns.webp",
+      "type": "image",
+      "bytes": 16844
+    },
+    {
+      "src": "/assets/images/service-extractions.webp",
+      "type": "image",
+      "bytes": 16750
+    },
+    {
+      "src": "/assets/images/service-implants.webp",
+      "type": "image",
+      "bytes": 13560
+    },
+    {
+      "src": "/assets/images/service-preventative.webp",
+      "type": "image",
+      "bytes": 23222
+    },
+    {
+      "src": "/assets/images/service-restorative.webp",
+      "type": "image",
+      "bytes": 23824
+    },
+    {
+      "src": "/assets/images/service-tmj.webp",
+      "type": "image",
+      "bytes": 18016
+    },
+    {
+      "src": "/assets/images/stars.webp",
+      "type": "image",
+      "bytes": 3714
+    },
+    {
+      "src": "/assets/images/team-emily.webp",
+      "type": "image",
+      "bytes": 14406
+    },
+    {
+      "src": "/assets/images/team-heather.webp",
+      "type": "image",
+      "bytes": 40740
+    },
+    {
+      "src": "/assets/images/team-susan.webp",
+      "type": "image",
+      "bytes": 68288
+    }
+  ]
+}

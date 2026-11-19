@@ -1,0 +1,23 @@
+{
+  "/[service]/page": "/[service]",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about-us/page": "/about-us",
+  "/contact-us/page": "/contact-us",
+  "/faq/page": "/faq",
+  "/icon.png/route": "/icon.png",
+  "/insurance-payment/page": "/insurance-payment",
+  "/meet-the-team/page": "/meet-the-team",
+  "/new-patients/page": "/new-patients",
+  "/opt-out-preferences/page": "/opt-out-preferences",
+  "/our-office/page": "/our-office",
+  "/page": "/",
+  "/patient-forms/page": "/patient-forms",
+  "/privacy-statement-us/page": "/privacy-statement-us",
+  "/rate-our-office/page": "/rate-our-office",
+  "/request-an-appointment/page": "/request-an-appointment",
+  "/robots.txt/route": "/robots.txt",
+  "/services/page": "/services",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/testimonials/page": "/testimonials"
+}
